@@ -1,6 +1,6 @@
 # Anomaly-Detection
 
-This project aims for detect the tumor/strock/anomalies on Low Field image.
+This project used Vision Transformer to detect the tumor/strock/anomalies on Low Field image.
 
 ![Watch the video](./seg_leision.gif)
 
