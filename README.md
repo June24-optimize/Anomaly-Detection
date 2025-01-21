@@ -1,4 +1,4 @@
-# Anomaly-Detection-Vision-Transformer
+# Anomaly-Detection
 
 This project aims for detect the tumor/strock/anomalies on Low Field image.
 
